@@ -1,0 +1,23 @@
+[
+    {
+        "id": "0",
+        "question": "Cat face 1+1 ?",
+        "image": null,
+        "options": ["1", "0", "2"],
+        "correctAnswer": "2"
+    },
+    {
+        "id": "1",
+        "question": "Cat face 10+10 ?",
+        "image": null,
+        "options": ["21", "20", "12"],
+        "correctAnswer": "20"
+    },
+    {
+        "id": "2",
+        "question": "Care este capitala Romaniei ?",
+        "image": null,
+        "options": ["Bucuresti", "Parius", "Calarasi"],
+        "correctAnswer": "Bucuresti"
+    }
+]
