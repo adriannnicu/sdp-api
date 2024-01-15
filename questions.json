@@ -19,5 +19,12 @@
         "image": null,
         "options": ["Bucuresti", "Parius", "Calarasi"],
         "correctAnswer": "Bucuresti"
+    },
+    {
+        "id": "3",
+        "question": "Cat face 19+1 ?",
+        "image": null,
+        "options": ["11", "22", "20"],
+        "correctAnswer": "20"
     }
 ]
