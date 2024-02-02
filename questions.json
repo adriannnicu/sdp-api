@@ -1,14 +1,14 @@
 [
     {
         "id": "0",
-        "question": "Cat face 1+1 ?",
+        "question": "Cat fac 1+1 ?",
         "image": null,
         "options": ["1", "0", "2"],
         "correctAnswer": "2"
     },
     {
         "id": "1",
-        "question": "Cat face 10+10 ?",
+        "question": "Cat fac 10+10 ?",
         "image": null,
         "options": ["21", "20", "12"],
         "correctAnswer": "20"
@@ -22,7 +22,7 @@
     },
     {
         "id": "3",
-        "question": "Cat face 19+1 ?",
+        "question": "Cat fac 19+1 ?",
         "image": null,
         "options": ["11", "22", "20"],
         "correctAnswer": "20"
