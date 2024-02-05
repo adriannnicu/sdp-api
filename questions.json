@@ -1,30 +1,37 @@
 [
     {
         "id": "0",
-        "question": "Cat fac 1+1 ?",
-        "image": null,
-        "options": ["1", "0", "2"],
-        "correctAnswer": "2"
+        "question": "Schimbarea directiei de mers la dreapta sau la stanga nu este permisa la intalnirea:",
+        "image": "https://www.scoalarutiera.ro/upload/img/questions/img/Cat_B_poz_1021.jpg",
+        "options": ["indicatorul 1", "indicatorul 2", "ambele indicatoare"],
+        "correctAnswer": "indicatorul 2"
     },
     {
         "id": "1",
-        "question": "Cat fac 10+10 ?",
-        "image": null,
-        "options": ["21", "20", "12"],
-        "correctAnswer": "20"
+        "question": "Panoul de sub indicator permite:",
+        "image": "https://www.scoalarutiera.ro/upload/img/questions/img/Cat_B_poz_1035.jpg",
+        "options": ["stationarea mijloacelor de transport public de persoane in intervalul mentionat", "stationarea in timpul orelor mentionate", "stationarea in timpul orelor mentionate"],
+        "correctAnswer": "stationarea in timpul orelor mentionate"
     },
     {
         "id": "2",
-        "question": "Care este capitala Romaniei ?",
-        "image": null,
-        "options": ["Bucuresti", "Parius", "Calarasi"],
-        "correctAnswer": "Bucuresti"
+        "question": "Care dintre indicatoare te avertizeaza ca urmeaza sa intersectezi un drum fara prioritate?",
+        "image": "https://www.scoalarutiera.ro/upload/img/questions/img/Cat_B_poz_978.jpg",
+        "options": ["ambele", "indicatorul 1", "indicatorul 2"],
+        "correctAnswer": "indicatorul 1"
     },
     {
         "id": "3",
-        "question": "Cat fac 19+1 ?",
-        "image": null,
-        "options": ["11", "22", "20"],
-        "correctAnswer": "20"
+        "question": "Care dintre indicatoarele alaturate creeaza obligatii pentru conducatorii de vehicule?",
+        "image": "https://www.scoalarutiera.ro/upload/img/questions/img/Cat_B_poz_192.jpg",
+        "options": ["indicatorul nr. 1", "indicatorul nr. 2", "nici unul dintre aceste indicatoare"],
+        "correctAnswer": "indicatorul nr. 1"
+    }
+    {
+        "id": "4",
+        "question": "La intalnirea panoului de pe stalp aveti obligatia:",
+        "image": "https://www.scoalarutiera.ro/upload/img/questions/img/Cat_B_poz_331.jpg",
+        "options": ["sa va deplasati cu atentie pe sectorul de drum ingust", "sa acordati prioritate numai autocamioanelor si autobuzelor care circula din sens opus", "sa acordati prioritate vehiculelor care circula din sens opus"],
+        "correctAnswer": "sa va deplasati cu atentie pe sectorul de drum ingust"
     }
 ]
