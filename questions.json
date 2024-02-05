@@ -26,7 +26,7 @@
         "image": "https://www.scoalarutiera.ro/upload/img/questions/img/Cat_B_poz_192.jpg",
         "options": ["indicatorul nr. 1", "indicatorul nr. 2", "nici unul dintre aceste indicatoare"],
         "correctAnswer": "indicatorul nr. 1"
-    }
+    },
     {
         "id": "4",
         "question": "La intalnirea panoului de pe stalp aveti obligatia:",
