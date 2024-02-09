@@ -1,0 +1,16 @@
+[
+  {
+    "id": "0",
+    "name": "Curba la stanga",
+    "category": "Indicatoare de avertizare",
+    "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/a1-curba-la-stanga.jpg",
+    "content": "Acest indicator va avertizeaza ca urmeaza o curba la stanga."
+  },
+  {
+    "id": "1",
+    "name": "Curba dubla sau o succesiune de mai mult de doua curbe, prima la stanga",
+    "category": "Indicatoare de avertizare",
+    "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/a3-curba-dubla-sau-o-succesiune-de-mai-mult-de-dou-curbe-prima-la-stanga.jpg",
+    "content": "Acest indicator va avertizeaza ca urmeaza fie o curba dubla fie o succesiune de curbe, prima dintr curbe fiind catre stanga."
+  },
+]
