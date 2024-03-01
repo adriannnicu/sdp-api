@@ -1,37 +1,219 @@
 [
-  {
-    "id": "0",
-    "name": "Curba la stanga",
-    "category": "Indicatoare de avertizare",
-    "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/a1-curba-la-stanga.jpg",
-    "content": "Acest indicator va avertizeaza ca urmeaza o curba la stanga."
-  },
-  {
-    "id": "1",
-    "name": "Curba dubla sau o succesiune de mai mult de doua curbe, prima la stanga",
-    "category": "Indicatoare de avertizare",
-    "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/a3-curba-dubla-sau-o-succesiune-de-mai-mult-de-dou-curbe-prima-la-stanga.jpg",
-    "content": "Acest indicator va avertizeaza ca urmeaza fie o curba dubla fie o succesiune de curbe, prima dintr curbe fiind catre stanga."
-  },
-  {
-    "id": "2",
-    "name": "Cedeaza trecerea",
-    "category": "Indicatoare de prioritate",
-    "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/b1-cedeaza-trecerea.jpg",
-    "content": "Se amplaseaza pe drumul public fara prioritate, la intersectia acestuia cu un drum public prioritar."
-  },
-  {
-    "id": "3",
-    "name": "Oprire",
-    "category": "Indicatoare de prioritate",
-    "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/b2-oprire.jpg",
-    "content": "Se amplaseaza pe drumul public fara prioritate, unde pozitia de patrundere este lipsita de vizibilitate (cladiri, copaci, etc.). Conducatorul auto este obligat sa opreasca, indiferent daca pe drumul prioritar circula sau nu alte vehicule."
-  },
-  {
-    "id": "4",
-    "name": "Drum cu prioritate",
-    "category": "Indicatoare de prioritate",
-    "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/b3-drum-cu-prioritate.jpg",
-    "content": "Indicatorul acesta se instaleaza la inceputul drumului cu prioritate sau inaintea intersectiilor cu un drum fara prioritate. Are rolul de a anunta conducatorul auto ca are prioritate in intersectiile in care va patrunde."
-  }
+    {
+        "id": "0",
+        "name": "Curba la stanga",
+        "category": "Indicatoare de avertizare",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/a1-curba-la-stanga.jpg",
+        "content": "Acest indicator va avertizeaza ca urmeaza o curba la stanga."
+      },
+      {
+        "id": "1",
+        "name": "Curba dubla sau o succesiune de mai mult de doua curbe, prima la stanga",
+        "category": "Indicatoare de avertizare",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/a3-curba-dubla-sau-o-succesiune-de-mai-mult-de-dou-curbe-prima-la-stanga.jpg",
+        "content": "Acest indicator va avertizeaza ca urmeaza fie o curba dubla fie o succesiune de curbe, prima dintr curbe fiind catre stanga."
+      },
+      {
+        "id": "2",
+        "name": "Curba deosebit de periculoasa",
+        "category": "Indicatoare de avertizare",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/a5-curba-deosebit-de-periculoasa.jpg",
+        "content": "Indicatorul rutier se intalneste in curbe deosebit de periculoase, sensul sagetilor indicand directia virajului. Conducatorul auto este obligat sa reduca viteza pana la 30 km/h in localitati si 50 km/h in afara acestora."
+      },
+      {
+        "id": "3",
+        "name": "Panouri succesive pentru curbe deosebit de periculoase",
+        "category": "Indicatoare de avertizare",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/a6a-panouri-succesive-pentru-curbe-deosebit-de-periculoase.jpg",
+        "content": "Se amplasează în curbe cu raza sub 100 de metri (în curbele deosebit de periculoase) în zona exterioară a acestora. Se instalează un număr minim de 3 panouri pe exteriorul curbei, succesiv, de la intrarea până la ieșirea din curbă, cu vârfurile săgeților indicând sensul virajului."
+      },
+      {
+        "id": "4",
+        "name": "Drum ingust pe ambele parti",
+        "category": "Indicatoare de avertizare",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/a9-drum-ingustat-pe-ambele-parti.jpg",
+        "content": "Indicatorul se amplasează la 100-200 de metri de locul în care sectorul de drum începe să se îngusteze pe ambele părți cu cel puțin jumătate de metru."
+      },
+      {
+        "id": "5",
+        "name": "Drum ingust pe partea dreapta",
+        "category": "Indicatoare de avertizare",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/a10-drum-ingustat-pe-partea-dreapta.jpg",
+        "content": "Indicatorul din imagine se amplasează la 100-200 de metri de locul în care sectorul de drum începe să se îngusteze pe partea dreaptă (cu cel puțin jumătate de metru)."
+      },
+      {
+        "id": "6",
+        "name": "Drum ingust pe partea stanga",
+        "category": "Indicatoare de avertizare",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/a11-drum-ingustat-pe-partea-stanga.jpg",
+        "content": "Indicatorul din imagine se amplasează la 100-200 de metri de locul în care sectorul de drum începe să se îngusteze pe partea stângă (cu cel puțin jumătate de metru)."
+      },
+      {
+        "id": "7",
+        "name": "Acostament periculos",
+        "category": "Indicatoare de avertizare",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/a12-acostament-periculos.jpg",
+        "content": "Indicatorul rutier se întâlnește de regulă în zone montane, unde acostamentul este denivelat față de partea carosabilă si exista pericolul rasturnarii."
+      },
+      {
+        "id": "8",
+        "name": "Drum aglomerat",
+        "category": "Indicatoare de avertizare",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/a13-drum-aglomerat.jpg",
+        "content": "Se intalneste de regula pe autostrazi sau pe alte drumuri unde traficul este intens. Sunt situații în care, deasupra autostrăzii, întâlnim panouri luminoase, iar la aprinderea indicatorului rutier, participanții la trafic sunt avertizați că traficul este aglomerat."
+      },
+      {
+        "id": "9",
+        "name": "Drum cu denivelari",
+        "category": "Indicatoare de avertizare",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/a17-drum-cu-denivelari.jpg",
+        "content": "Indicatorul rutier se întâlnește înainte cu 50-200 metri de locul unde drumul prezintă denivelări. Dacă lungimea sectorului de drum depășește 300 de metri, indicatorul este însoțit de un panou adițional pe care este specificată lungimea sectorului de drum cu denivelări."
+      },
+      {
+        "id": "10",
+        "name": "Cedeaza trecerea",
+        "category": "Indicatoare de prioritate",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/b1-cedeaza-trecerea.jpg",
+        "content": "Se amplaseaza pe drumul public fara prioritate, la intersectia acestuia cu un drum public prioritar."
+      },
+      {
+        "id": "11",
+        "name": "Oprire",
+        "category": "Indicatoare de prioritate",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/b2-oprire.jpg",
+        "content": "Se amplaseaza pe drumul public fara prioritate, unde pozitia de patrundere este lipsita de vizibilitate (cladiri, copaci, etc.). Conducatorul auto este obligat sa opreasca, indiferent daca pe drumul prioritar circula sau nu alte vehicule."
+      },
+      {
+        "id": "12",
+        "name": "Drum cu prioritate",
+        "category": "Indicatoare de prioritate",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/b3-drum-cu-prioritate.jpg",
+        "content": "Indicatorul acesta se instaleaza la inceputul drumului cu prioritate sau inaintea intersectiilor cu un drum fara prioritate. Are rolul de a anunta conducatorul auto ca are prioritate in intersectiile in care va patrunde."
+      },
+      {
+        "id": "13",
+        "name": "Sfarsitul drumului cu prioritate",
+        "category": "Indicatoare de prioritate",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/b4-sfarsitul-drumului-cu-prioritate.jpg",
+        "content": "Se amplasează la 50 - 200 de metri de locul unde încetează prioritatea indicatorului Drum cu prioritate, având rolul de a informa conducătorul auto că în următoarea intersecție în care va pătrunde, toate drumurile vor fi de aceeași categorie."
+      },
+      {
+        "id": "14",
+        "name": "Prioritate pentru circulatia din sens invers",
+        "category": "Indicatoare de prioritate",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/b5-prioritate-pentru-circulatia-din-sens-invers.jpg",
+        "content": "Acest indicator se găsește amplasat la 10 - 20 de metri înaintea sectorului de drum îngustat unde nu au loc să circule două vehicule unul pe lângă celălalt și obligă pe conducătorul de vehicul care circulă în sensul săgeții roșii să acorde prioritate vehiculelor care vin din sens opus, pe sectorul de drum îngustat care urmează."
+      },
+      {
+        "id": "15",
+        "name": "Prioritate fata de circulatia din sens invers",
+        "category": "Indicatoare de prioritate",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/b6-prioritate-fata-de-circulatia-din-sens-invers.jpg",
+        "content": "Acest indicator rutier se întâlnește pe sectoarele de drum îngustat, unde nu au loc să circule două vehicule, unul pe lângă celălalt."
+      },
+      {
+        "id": "16",
+        "name": "Accesul interzis",
+        "category": "Indicatoare de interzicere sau restrictie",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/c1-accesul-interzis.jpg",
+        "content": "Acest indicator interzice accesul tuturor vehiculelor pe sectorul de drum la capatul caruia este intalat. In general, se amplaseaza pe drumurile cu sens unic, pe sensul pe care nu este permisa circulatia."
+      },
+      {
+        "id": "17",
+        "name": "Accesul interzis in ambele sensuri",
+        "category": "Indicatoare de interzicere sau restrictie",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/c2-circulatia-interzisa-in-ambele-sensuri.jpg",
+        "content": "Se amplaseaza la intrarea pe drumurile pe care este interzisa circulatia vehiculelor in ambele sensuri, cu ar fi parcuri, zone rezidențiale sau de interes special, centrele unor orașe mari, etc."
+      },
+      {
+        "id": "18",
+        "name": "Accesul interzis autovehiculelor, cu exceptia motocicletelor fara atas",
+        "category": "Indicatoare de interzicere sau restrictie",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/c3-accesul-interzis-autovehiculelor-cu-exceptia-motocicletelor-fara-atas.jpg",
+        "content": "Acest indicator rutier nu interzice doar accesul autoturismelor, ci al tuturor categoriilor de vehicule, exceptie facand motocicletele fara atas, mopedele si vehiculele fara motor."
+      },
+      {
+        "id": "19",
+        "name": "Accesul interzis motocicletelor",
+        "category": "Indicatoare de interzicere sau restrictie",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/c4-accesul-interzis-motocicletelor.jpg",
+        "content": "Indicatorul rutier se intalneste la intrarea pe drumul public, unde accesul motocicletelor cu / fara atas este interzisa."
+      },
+      {
+        "id": "20",
+        "name": "Accesul interzis vehiculelor destinate transportului de marfuri",
+        "category": "Indicatoare de interzicere sau restrictie",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/c7-accesul-interzis-vehiculelor-destinate-transportului-de-marfuri.jpg",
+        "content": "Se instaleaza la inceputul drumurilor publice pe care accesul vehiculelor destinate transportului de marfuri este interzis."
+      },
+      {
+        "id": "21",
+        "name": "Accesul interzis autobuzelor",
+        "category": "Indicatoare de interzicere sau restrictie",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/c9-accesul-interzis-autobuzelor.jpg",
+        "content": "Se instaleaza la intrarea pe drumurile publice unde este interzis accesul autobuzelor."
+      },
+      {
+        "id": "22",
+        "name": "Stationarea interzisa",
+        "category": "Indicatoare de interzicere sau restrictie",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/c38-stationarea-interzisa.jpg",
+        "content": "La întâlnirea acestui indicator se interzice staționarea vehiculelor. Interzicerea de staționare începe din dreptul indicatorului. Atunci când indicatorul nu este însoțit de panou adițional, zona de acțiune a acestuia încetează în intersecția cea mai apropiată."
+      },
+      {
+        "id": "22",
+        "name": "Oprirea interzisa",
+        "category": "Indicatoare de interzicere sau restrictie",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/c39-oprirea-interzisa.jpg",
+        "content": "La întâlnirea acestui indicator se interzice oprirea vehiculelor. Interzicerea de oprire începe din dreptul indicatorului. Atunci când indicatorul nu este însoțit de panou adițional, zona de acțiune a acestuia încetează în intersecția cea mai apropiată."
+      },
+      {
+        "id": "23",
+        "name": "Inainte",
+        "category": "Indicatoare de obligare",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/d1-inainte.jpg",
+        "content": "Acest indicator obligă conducătorii de vehicule să circule doar pe direcția înainte în intersecția înaintea căreia se află instalat, fiindu-le interzisă schimbarea direcției de mers spre dreapta sau spre stânga."
+      },
+      {
+        "id": "24",
+        "name": "La dreapta",
+        "category": "Indicatoare de obligare",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/d2-la-dreapta.jpg",
+        "content": "Obligă conducătorul de vehicul să vireze la dreapta în prima intersecție, fără a depăși locul unde este instalat indicatorul rutier."
+      },
+      {
+        "id": "25",
+        "name": "La dreapta",
+        "category": "Indicatoare de obligare",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/d3-la-dreapta.jpg",
+        "content": "Obligă conducătorul de vehicul să vireze la dreapta în prima intersecție, depasind locul unde este instalat indicatorul rutier."
+      },
+      {
+        "id": "26",
+        "name": "Inainte sau la dreapta",
+        "category": "Indicatoare de obligare",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/d4-inainte-sau-la-dreapta.jpg",
+        "content": "Acest indicator obligă conducătorii de vehicule să circule pe una dintre direcțiile înainte sau la dreapta în intersecția înaintea căreia se află instalat. Virajul către dreapta se va efectua după depășirea indicatorului."
+      },
+      {
+        "id": "27",
+        "name": "Ocolire",
+        "category": "Indicatoare de obligare",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/d5-ocolire.jpg",
+        "content": "Acest indicator semnalizează prezența unui obstacol pe partea carosabilă și obligă conducătorii de vehicule să ocolească respectivul obstacol prin sensul indicat de săgeată. În situația dată ocolirea obstacolului se va face prin partea dreaptă, conform cu sensul indicată de săgeata de pe indicator. Sensul săgeții poate indica, după caz, ocolirea obstacolului prin partea stângă."
+      },
+      {
+        "id": "28",
+        "name": "Ocolire",
+        "category": "Indicatoare de obligare",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/d6-ocolire.jpg",
+        "content": "Indicatorul se amplaseaza inaintea unui obstacol aflat pe partea carosabila, pe care conducatorul de vehicul poate sa il ocoleasca pe ambele parti."
+      },
+      {
+        "id": "29",
+        "name": "Intersectie cu sens giratoriu",
+        "category": "Indicatoare de obligare",
+        "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://semnalizarerutiera.ro/wp-content/uploads/d7-intersectie-cu-sens-giratoriu.jpg",
+        "content": "Se amplasează înaintea intrării într-o intersecție cu sens giratoriu sau în dreptul fiecărei intrări, pe un scuar ori mijlocul intersecției obligând conducătorii de vehicule să se deplaseze în sensul săgeților prin apropierea de centrului intersecției, cu excepția virajului pe prima stradă la dreapta. Prin definiție este intersecție dirijată, în concluzie au prioritate cei care circula in interiorul intersectiei fata de cei care patrund in intersectie."
+      }
 ]
